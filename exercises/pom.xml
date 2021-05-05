@@ -20,6 +20,16 @@
 		<module>exercise-01-1</module>
 		<module>exercise-02-1</module>
 		<module>exercise-03-1</module>
+		<module>exercise-03-2</module>
+		<module>exercise-05-1</module>
+		<module>exercise-07-1</module>
+		<module>exercise11_1</module>
+		<module>exercise11_2</module>
+		<module>exercise11_3</module>
+		<module>exercise12_1</module>
+		<module>exercise13_1</module>
+		<module>exercise16_1</module>
+		<module>exercise16_2</module>
 	</modules>
 
 	<build>
