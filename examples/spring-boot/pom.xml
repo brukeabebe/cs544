@@ -28,6 +28,8 @@
 		<module>spring-boot-06-security-config</module>
 		<module>spring-boot-07-security-in-memory</module>
 		<module>spring-boot-08-security-db-tables</module>
+		<module>spring-boot-09-validation</module>
+		<module>excercise15</module>
 	</modules>
 
 	<properties>

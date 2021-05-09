@@ -15,6 +15,7 @@
 
 	<name>cs544-exercises</name>
 	<description>CS544 - Enterprise Architecture Coding Exercises</description>
+	<dependencies></dependencies>
 
 	<modules>
 		<module>exercise-01-1</module>
@@ -30,6 +31,7 @@
 		<module>exercise13_1</module>
 		<module>exercise16_1</module>
 		<module>exercise16_2</module>
+		<module>exercise_16_1</module>
 	</modules>
 
 	<build>

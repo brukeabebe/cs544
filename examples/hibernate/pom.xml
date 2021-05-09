@@ -36,6 +36,7 @@
 		<module>hibernate-07-hql-3</module>
 		<module>hibernate-07-hql-4</module>
 		<module>hibernate-07-hql-5</module>
+		<module>adventure-works-resource</module>
 	</modules>
 
 	<dependencyManagement>
